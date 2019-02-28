@@ -158,8 +158,8 @@ contacts name fields. For example the postal greeting for an individual
 called 'Jenny Soper' is 'Dear Jenny'.
 
 The default greetings can be configured at a global level here:
-**Administer CiviCRM** > **Communications** > **Email Greeting Formats
-*or*Email Greeting Formats*or*Addressee formats**.
+**Administer** > **Communications** > **Email Greeting Formats**
+or **Postal Greeting Formats** or **Addressee Formats**.
 
 Different formats can also be selected for each contact and can also be
 customised on a contact per contact basis. 
